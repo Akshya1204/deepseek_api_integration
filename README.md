@@ -1,4 +1,4 @@
-# deepseek_api_integration
+# DeepSeek Chat
 
 DeepSeek Chat is a web-based chat application that enables real-time communication between users. This project is built using Flask for the backend and React for the frontend.
 
@@ -43,14 +43,14 @@ DeepSeek Chat is a web-based chat application that enables real-time communicati
 - Python (for Flask backend)
 - Node.js and npm (for React frontend)
 
-##how to get API KEY
--Go to the openrouter.ai
--search for deepseekr2(free) click on it
--go to the api key
--get api key
--create api key 
--copy the api key 
--create the .env folder in backend and paste the api key then run the backend code
+### how to get API KEY:
+- Go to the openrouter.ai
+- search for deepseekr2(free) click on it
+- go to the api key
+- get api key
+- create api key 
+- copy the api key 
+- create the .env folder in backend and paste the api key then run the backend code
 
 ### Backend Setup:
 1. Navigate to the backend folder:
@@ -87,16 +87,22 @@ DeepSeek Chat is a web-based chat application that enables real-time communicati
    npm run dev
    ```
 
-
-
 ## Usage
 - Ensure both frontend and backend servers are running.
 - Access the application at localhost
 - Start chatting in real time!
 
+## Contributing
+If you wish to contribute:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes and commit (`git commit -m 'Add new feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a pull request.
 
 ## License
 This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Contact
 For questions or suggestions, please reach out via [your email/contact info].
+
